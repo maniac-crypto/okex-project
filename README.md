@@ -24,6 +24,8 @@ The Friendly Way to Receive Support.
 - change remote url
 - configure correct name in the frontend and deploy
 
+## Smart Contract Address on OEC Testnet: 0xC8c73308f1f88952d11F68bF7f18bf4dd0B73720
+
 *****************************************************************************
 
 We are trying to come up with new updates on regular basis, for any specific queries, please create an issue.
